@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "address": "10.1.2.3",
+      "allowed": true
+    },
+    {
+      "address": "192.0.2.5",
+      "allowed": false
+    }
+  ]
+}
